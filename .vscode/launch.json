@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "c:/Users/Harshit/Desktop/tmo",
-      "program": "c:/Users/Harshit/Desktop/tmo/build/Debug/outDebug",
+      "cwd": "c:/Users/Harshit/Desktop/QstnPractice/LinkedList",
+      "program": "c:/Users/Harshit/Desktop/QstnPractice/LinkedList/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
